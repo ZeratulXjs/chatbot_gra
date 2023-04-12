@@ -11,7 +11,7 @@ Testing out a simple chatbot linked to the API for in house data privacy
 
 The `requirements.txt` file documents the code dependencies
 
-# How to use flask to view web app
+# How to get the chatbot up and running
 Please note: I am assuming you are using a Windows machine
 
 1. Install Python.
