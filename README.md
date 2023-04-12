@@ -3,6 +3,8 @@
 # About
 Testing out a simple chatbot linked to the API for in house data privacy
 
+![Chatbot screenshot](https://github.com/ZeratulXjs/chatbot_gra/blob/master/chatbot.png?raw=true)
+
 # Core applications/programs used 
 1. Python 3.11
 2. Gradio 3.25
@@ -47,14 +49,17 @@ Please note: I am assuming you are using a Windows machine
     ```
 
 8. Make a copy of the ```env.example``` file. 
+
     Rename to ```.env``` and insert your OpenAI API key
 
 9. Run the python app file
 
-    ```py app.py ```
+    ```
+    py app.py 
+    ```
   
 10. Open the localhost server link in your browser 
-    [http://127.0.0.1:7860]
+    (http://127.0.0.1:7860)
 
 
 
